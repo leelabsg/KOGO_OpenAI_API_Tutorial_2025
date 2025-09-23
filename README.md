@@ -4,6 +4,9 @@ This repository is for the Clinical Data Analysis tutorial using the OpenAI API.
 
 It contains code and materials from the 3rd Genome Medicine Academy held in 2025 by the Korea Genome Organization (KOGO).
 
+## Presentation slides
+https://docs.google.com/presentation/d/1DiOlkh-lhqpQQmcHcn5c436wPVtsygQ_
+
 The tutorial consists of two main sessions:
 
 ## Practice Session List
