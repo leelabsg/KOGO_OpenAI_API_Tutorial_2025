@@ -31,3 +31,9 @@ To run the tutorial notebooks, follow these steps:
 - Session1/Tutorial1_ExtractInfo_ClinicalNotes.ipynb
 - Session2/Tutorial2_GeneEmbeddings.ipynb
 4. Once uploaded, the notebook will open and is ready to run in Colab.
+
+### [Step 3: API Key Information]  
+The API Key required for the practice can be found at the link below.  
+**Note**: This API Key is strictly for use during the KOGO workshop sessions only.  
+
+[API Key Document](https://docs.google.com/document/d/1qjIP4VclHwBh7nfssnprqitnWXlVVmh8IEvcOg1M424/edit?usp=sharing)
